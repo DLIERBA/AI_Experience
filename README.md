@@ -9,6 +9,9 @@
 3. 超人工智能Artificial Superintelligence (ASI): 牛津哲学家，知名人工智能思想家Nick Bostrom把超级智能定义为“在几乎所有领域都比最聪明的人类大脑都聪明很多，包括科学创新、通识和社交技能。”
 
 #### 我认为我们在教学过程中所使用的人工智能API主要是弱人工智能，例如语音识别、图像识别等。我们现在所身处的世界是充满弱人工智能的世界，弱人工智能无处不在。
+![图像识别](https://raw.githubusercontent.com/DLIERBA/AI_Experience/master/images/%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB.png)
+![文字识别](https://raw.githubusercontent.com/DLIERBA/AI_Experience/master/images/%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB.png)
+![语音识别](https://raw.githubusercontent.com/DLIERBA/AI_Experience/master/images/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB.png)
 
 + 当你用手机使用地图软件导航，接受音乐电台推荐，查询明天的天气，使用Siri语音助手，其实都是利用了弱人工智能。
 
